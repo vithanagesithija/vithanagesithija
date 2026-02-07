@@ -18,7 +18,7 @@ I'm a passionate **Computer Science student** dedicated to building scalable, ef
 
 - 🎯 **Focus:** Scalable architectures, microservices, and DevOps practices
 - 📚 **Currently Learning:** Kubernetes, CI/CD, Infrastructure as Code
-- 💡 **Philosophy:** Write code that scales, grows, and adapts
+- 💡 **Philosophy:** Write code that scales, grows, and adapts.
 - 🚀 **Goal:** Become a full-stack DevOps engineer.
 
 ---
